@@ -74,6 +74,7 @@ body{
 		height: 320px;
 		overflow:hidden;
 		list-style: none;
+		pointer-events: none;
 }
 .gmap{
 		position: relative;
@@ -111,6 +112,7 @@ body{
 		width:580px;
  		height:600px;
 		overflow:hidden;
+		pointer-events: none;
 }
 .page__skill{
 		font-size: 90%;
@@ -144,6 +146,7 @@ body{
 		width:540px;
 		height:320px;
 		overflow:hidden;
+		pointer-events: none;
 }
 iframe{
 		position: relative;
